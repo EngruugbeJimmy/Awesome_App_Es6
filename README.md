@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/EngruugbeJimmy-green)
 
-# Leaderboard
 
 ## 📗 Table of Contents
 
