@@ -72,7 +72,7 @@ In this project, we built a basic website that allows users to add/remove books 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live Demo Link](https://EngruugbeJimmy.github.io/leaderboard/)
+> [Live Demo Link](https://engruugbejimmy.github.io/Awesome_App_Es6/)
 
 <p align="center">
   <img width="500" src="screenshot/page_demo.png">
